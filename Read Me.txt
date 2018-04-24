@@ -1,0 +1,12 @@
+In this assignment I have tried to update the Assignment 4.
+
+During my review for assignment 4 I was told that the template method pattern is not applied properly so it is not a Template Method and more of a strategy pattern.
+So I have updated the code to template pattern by adding common method/logic.
+
+In this assignment I have tried to work on the points I got missed in my assignment 4.
+
+So following are the things I have updated in this assignment:
+1. Strategy to Template pattern
+2. Added more test cases for all kinds of possible sudoku puzzles of different sizes.
+3. updated the diagrams
+4. The 16x16 and 25x25 puzzles are solving, but are taking a huge amount of time in solving as my different algorithm are based on guess method.
